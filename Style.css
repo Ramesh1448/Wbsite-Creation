@@ -1,0 +1,115 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
+
+
+nav{
+
+    background-color: black;
+    color: aquamarine;
+    padding: 15px;
+}
+
+li,h1,ul{
+
+    display: inline;
+    
+    
+}
+
+ul{
+    margin-left: 60%;
+}
+
+li{
+    margin-right: 2px;
+    font-size: 20px;
+    color:gray  
+}
+
+li:hover{
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+
+ul{
+    margin-right: 5px;
+    font-size: 20px;
+    color: white
+}
+
+h1{
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
+}
+
+input{
+    width: 60%;
+    padding: 10px;
+}
+
+button{
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border: green;
+    cursor: pointer;
+}
+
+.Scarchbar{
+    padding: 50px;
+    text-align: center;
+    
+}
+.Box{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 300px;
+    align-items: center;
+}
+
+.Box:hover{
+background-color: black;
+color: white;
+padding: 1px;
+cursor: pointer;
+}
+
+
+.Products{
+    text-align: center;
+
+}
+
+
+
+h2{
+    font-size: 30px;
+    padding: 20px;
+    color: rgb(0, 0, 0);
+    margin-left: 10px;}
+
+    .p{
+        font-size: 200px;
+        padding: 20px;
+        color: rgb(0, 0, 0);
+        margin-left: 10px;
+        
+    }
+
+    .Contact{
+
+        background-color: black;
+        color: white;
+        padding: 20px;
+        text-align: center;
+        padding: 40px;
+
+
+    }
+
